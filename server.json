@@ -9,14 +9,6 @@
       "createdAt": "2025-02-04T18:49:27.341Z"
     },
     {
-      "id": 2,
-      "description": "Mesada",
-      "type": "income",
-      "category": "Renda",
-      "price": 1300,
-      "createdAt": "2025-02-07T16:49:27.341Z"
-    },
-    {
       "id": 3,
       "description": "Hamburger",
       "type": "outcome",
@@ -29,8 +21,24 @@
       "description": "Protetor solar",
       "type": "outcome",
       "category": "Saúde",
-      "price": 118.90,
+      "price": 118.9,
       "createdAt": "2025-02-06T18:50:27.341Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-02-18T21:35:37.280Z",
+      "id": 5
+    },
+    {
+      "description": "Cheeseburger",
+      "price": 32,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-02-18T22:08:17.548Z",
+      "id": 6
     }
   ]
 }
